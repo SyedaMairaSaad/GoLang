@@ -4,5 +4,4 @@ import "fnt"
 
 func main(){
 	fnt.Println("Hello, World")
-
 }
